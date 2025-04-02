@@ -7355,7 +7355,7 @@ html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e
 	opacity: 0.3 !important;
 	padding: 0 !important;
 	margin: 0 !important;
-	visibility: visible !important;
+	visibility: hidden !important;
 	transform: unset !important;
 	animation: unset !important;
 	pointer-events: none !important;
@@ -7374,7 +7374,7 @@ html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e
 	padding: 0 !important;
 	margin: 0 !important;
 	cursor: text !important;
-	visibility: visible !important;
+	visibility: hidden !important;
 	position: relative !important;
 	top: unset !important;
 	left: unset !important;
@@ -7393,7 +7393,7 @@ html:only-child > head + body div.app_a3002d > div.app__160d8 > div.layers__960e
 	padding: 0 !important;
 	margin: 0 !important;
 	cursor: pointer !important;
-	visibility: visible !important;
+	visibility: hidden !important;
 	position: absolute !important;
 	top: unset !important;
 	left: 117px !important;
